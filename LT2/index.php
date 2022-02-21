@@ -6,7 +6,7 @@
     <body>
     <h1>Recipes</h1>
     <ul>
-	<li><a href="index.php">HOME</a></li>
+	<li><a href="pe1_Mediavilla.html">HOME</a></li>
 	<li><a href="omelette.html">Omelette Recipe</a></li>
 	<li><a href="egg_fried_rice.html">Egg Fried Rice Recipe</a></li>
 	<li><a href="chili_con_carne.html">Chili con Carne Recipe</a></li>
