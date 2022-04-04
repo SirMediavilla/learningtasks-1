@@ -7,14 +7,12 @@
 		{
 		    background-image: url(z.png);
 		    background-repeat: no-repeat;
+		    background-position: top center;
+		    background-color: black;
 	        }
 		#wrapper
 		{
 		    color: white;
-		}
-
-		h1
-		{
 		}
 		.s-one
 		{
