@@ -37,7 +37,6 @@
 	   </style>
 	</head>
 	<body>
-	<div id="wrapper">
 
 	<h1 align=center> The Sea Cave </h1>
 	<h3 align=center>by Paula Meehan</h3>
