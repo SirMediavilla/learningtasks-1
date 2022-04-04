@@ -1,18 +1,24 @@
 <!DOCTYPE html>
 <html>
 	<head>
+           <meta name="viewport" content="width=device-width">
 	   <title>The Sea Cave</title>
+	   
 	   <style>
 		body
 		{
 		    background-image: url(z.png);
 		    background-repeat: no-repeat;
-		    background-position: top center;
+   		    background-position: top center;
 		    background-color: black;
 	        }
 		#wrapper
 		{
 		    color: white;
+		}
+
+		h1
+		{
 		}
 		.s-one
 		{
@@ -22,6 +28,7 @@
 		{
 		    font-family: 'Arial';
 		}
+		img {max-width: 100%;}
 		table 
 		{
   		border-spacing: 30px;
@@ -30,6 +37,7 @@
 	   </style>
 	</head>
 	<body>
+	<div id="wrapper">
 
 	<h1 align=center> The Sea Cave </h1>
 	<h3 align=center>by Paula Meehan</h3>
