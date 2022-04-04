@@ -3,7 +3,6 @@
 	<head>
            <meta name="viewport" content="width=device-width">
 	   <title>The Sea Cave</title>
-	   
 	   <style>
 		body
 		{
@@ -27,7 +26,6 @@
 		{
 		    font-family: 'Arial';
 		}
-		img {max-width: 100%;}
 		table 
 		{
   		border-spacing: 30px;
