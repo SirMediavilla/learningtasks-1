@@ -91,7 +91,7 @@
 				
 					<th>
 					<div class="image-left">
-						<img src="images/omelette.jpg" title="Egg" alt="Egg"/>
+						<img src="images/profile.jpg" title="Egg" alt="Egg"/>
 					</div>
 					</th>
 					
