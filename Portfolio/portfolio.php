@@ -66,7 +66,7 @@
 							</th>
 
 							<th>
-								<div><h2 class="d"><a href="LT2/pe1_Mediavlla.html" target="_blank">Recipe Website</a><h3></div>
+								<div><h2 class="d"><a href="LT2/pe1_Mediavilla.html" target="_blank">Recipe Website</a><h3></div>
 							</th>
 							
 							<th>
