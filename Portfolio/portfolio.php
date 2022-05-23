@@ -12,6 +12,7 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         
         <script type="text/javascript" src="simplelightbox-master/dist/simple-lightbox.jquery.min.js"></script>
+		<script type="text/javascript" src="p.js"></script>
 	</head>
 	
 	<style>
@@ -47,7 +48,7 @@
 	<body>
 	<?php include 'Navbar.php' ?>
 		<div class="controler">
-			
+
 			<center>
 				<div id="Contact">
 					<h1 style="font-size:50px;">Portfolio</h1>
@@ -66,7 +67,7 @@
 							</th>
 
 							<th>
-								<div><h2 class="d"><a href="LT2/pe1_Mediavilla.html" target="_blank">Recipe Website</a><h3></div>
+								<div><h2 class="d"><a href="LT2/pe1_Mediavilla.html" onclick="functionName()" target="_blank">Recipe Website</a><h3></div>
 							</th>
 							
 							<th>
@@ -74,7 +75,7 @@
 							</th>
 
 							<th>
-								<div><h2 class="d"><a href="LT3/index.html" target="_blank">Top 10 Movies Website</a><h3></div>
+								<div><h2 class="d"><a href="LT3/index.html" onclick="functionName()" target="_blank">Top 10 Movies Website</a><h3></div>
 							</th>
 						</tr>
 						
@@ -84,7 +85,7 @@
 							</th>
 
 							<th>
-								<div><h2 class="d"><a href="LT4/index.html" target="_blank">Typography Website</a><h3></div>
+								<div><h2 class="d"><a href="LT4/index.html" onclick="functionName()" target="_blank">Typography Website</a><h3></div>
 							</th>
 							
 							<th>
@@ -92,7 +93,7 @@
 							</th>
 
 							<th>
-								<div><h2 class="d"><a href="LT5/index.html" target="_blank">Wheres Waldo Website</a><h3></div>
+								<div><h2 class="d"><a href="LT5/index.html" onclick="functionName()" target="_blank">Wheres Waldo Website</a><h3></div>
 							</th>
 						</tr>
 					</table>
@@ -104,7 +105,7 @@
 							</th>
 
 							<th>
-								<div><h2 class="d"><a href="MIDTERM/index.html" target="_blank">Charity Website</a><h3></div>
+								<div><h2 class="d"><a href="MIDTERM/index.html" onclick="functionName()" target="_blank">Charity Website</a><h3></div>
 							</th>
 						</tr>
 					</table>
